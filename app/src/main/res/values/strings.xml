@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Discount</string>
+    <string name="amount">Amount</string>
+    <string name="percentage"></string>
+</resources>
